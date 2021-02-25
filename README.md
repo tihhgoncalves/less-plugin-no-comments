@@ -1,5 +1,17 @@
 # lessc-no-comments
-Retira os comentários da compilação do LESS
+Retira todos os comentários da saída CSS do LESS.
+
+## Como instalar
+
+```
+npm install -g less-plugin-no-comments
+```
+
+## Como utilizar (linha de comando)
+
+```
+lessc arquivo.less arquivo.css --no-comments
+```
 
 
 ## Cooperadores
