@@ -1,4 +1,4 @@
-# lessc-no-comments
+# less-plugin-no-comments
 Retira todos os comentários da saída CSS do LESS.
 
 ## Como instalar
