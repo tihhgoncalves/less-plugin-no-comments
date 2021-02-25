@@ -1,0 +1,16 @@
+{
+    "name": "leesc-no-comments",
+    "version": "0.1.0",
+    "description": "Remove Comments in files less",
+    "main": "lessc-no-comments.js",
+    "keywords": ["less","no-comments"],
+    "license": "MIT",
+    "contributors": [
+        "Tiago Gonçalves",
+        "Bruno Gonçalves"
+    ], 
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tihhgoncalves/lessc-no-comments.git"
+    }   
+}
