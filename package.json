@@ -3,12 +3,16 @@
     "version": "0.2.0",
     "description": "Remove Comments in files less",
     "main": "lessc-no-comments.js",
-    "keywords": ["less","no-comments"],
+    "author": "Tihh Gonçalves",
+    "keywords": ["less",, "less plugins", "no-comments"],
     "license": "MIT",
     "contributors": [
         "Tiago Gonçalves",
         "Bruno Gonçalves"
     ], 
+    "bugs": {
+        "url": "hhttps://github.com/tihhgoncalves/less-plugin-no-comments/issues"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/tihhgoncalves/lessc-no-comments.git"
