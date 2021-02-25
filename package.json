@@ -4,7 +4,7 @@
     "description": "Remove Comments in files less",
     "main": "lessc-no-comments.js",
     "author": "Tihh Gonçalves",
-    "keywords": ["less",, "less plugins", "no-comments"],
+    "keywords": ["less", "less plugins", "no-comments"],
     "license": "MIT",
     "contributors": [
         "Tiago Gonçalves",
