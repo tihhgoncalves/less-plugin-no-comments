@@ -1,5 +1,5 @@
 {
-    "name": "leesc-no-comments",
+    "name": "lessc-no-comments",
     "version": "0.1.0",
     "description": "Remove Comments in files less",
     "main": "lessc-no-comments.js",
