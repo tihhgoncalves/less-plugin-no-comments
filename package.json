@@ -1,6 +1,6 @@
 {
     "name": "less-plugin-no-comments",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Remove Comments in files less",
     "main": "less-no-comments.js",
     "author": "Tihh Gonçalves",
